@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/eterna2/node-mindmap/issues"
   },
-  "homepage": "https://github.com/eterna2/node-mindmap#readme"
+  "homepage": "https://github.com/eterna2/node-mindmap#readme",
+  "dependencies": {
+    "word2vec": "^1.1.0",
+    "stemmer": "^1.0.0"
+  },
+  "devDependencies": {
+
+  }
 }
